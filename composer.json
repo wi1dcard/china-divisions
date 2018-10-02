@@ -1,0 +1,14 @@
+{
+    "name": "wi1dcard/china-divisions",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wi1dcard",
+            "email": "wi1dcard@qq.com"
+        }
+    ]
+}
