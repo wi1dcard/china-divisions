@@ -1,0 +1,17 @@
+preset: recommended
+
+risky: false
+
+enabled:
+
+disabled:
+  - concat_without_spaces
+  - phpdoc_summary
+
+finder:
+  exclude:
+    - "tests"
+  name:
+    - "*.php"
+  path:
+    - "src"
