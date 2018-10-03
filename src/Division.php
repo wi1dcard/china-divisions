@@ -210,7 +210,7 @@ class Division
     {
         $request = $this->client->build(
             'CNDZK_GUESS_ADDRESS',
-            "cndzk_guess_address_cpcode",
+            'cndzk_guess_address_cpcode',
             [
                 'divisionAddress' => $divisionAddress ?: $this->breadcrumb(),
                 'detailAddress' => $detailAddress,
