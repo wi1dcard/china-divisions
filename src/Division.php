@@ -224,4 +224,26 @@ class Division
 
         return $data['guess_address_response']['data'];
     }
+
+    /**
+     * 地址规范查询
+     *
+     * @return array
+     */
+    public function search($fullAddress, $limit = 20)
+    {
+        $request = $this->client->build(
+            'CNDZK_ADDRESS_QUERY',
+            'cndzk_address_query_cpcode',
+            [
+                'address' => $fullAddress,
+                'limit' => intval($limit),
+            ],
+            'cndzk_address_query'
+        );
+
+        $data = $this->client->send($request);
+
+        return $data['AddressBuildings'];
+    }
 }
