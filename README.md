@@ -1,6 +1,6 @@
 # 中国行政区划地址库 SDK + 爬虫 + 数据
 
-📍 本项目主要分为三大部分，如标题所示。
+📍 本项目主要分为三大部分，如标题所示；同步更新 [GitHub](https://github.com/wi1dcard/china-divisions) / [Gitee](https://gitee.com/wi1dcard/china-divisions)。
 
 典型应用场景如：**选择省市区关联下级**、**输入文本地址转换为结构化地址**、**输入部分地址联想下级**等。
 
