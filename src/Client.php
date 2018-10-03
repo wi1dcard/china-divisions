@@ -9,6 +9,7 @@ use GuzzleHttp\Client as HttpClient;
 use Spatie\ArrayToXml\ArrayToXml;
 use function GuzzleHttp\Psr7\build_query;
 use GuzzleHttp\Exception\BadResponseException;
+use ChinaDivisions\Exceptions\ResponseException;
 
 class Client
 {
@@ -76,8 +77,8 @@ class Client
         }
 
         $success = $result['success'];
-        if (!$success) {
-            throw new BadResponseException($result['errorMsg'], $request, $response);
+        if ($success != 'true') {
+            throw new ResponseException($result['errorMsg'], intval($result['errorCode']));
         }
 
         return $result;
