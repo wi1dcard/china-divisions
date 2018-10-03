@@ -1,6 +1,6 @@
 {
     "name": "wi1dcard/china-divisions",
-    "description": "中国行地址库 SDK + 爬虫 + 数据。",
+    "description": "中国行政区划地址库 SDK + 爬虫 + 数据。",
     "type": "library",
     "require": {
         "php": "^7.0",
