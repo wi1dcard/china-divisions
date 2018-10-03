@@ -1,8 +1,12 @@
 # 中国行政区划地址库 SDK + 爬虫 + 数据
 
-本项目主要分为三大部分，如标题所示。
+📍 本项目主要分为三大部分，如标题所示。
 
 典型应用场景如：**选择省市区关联下级**、**输入文本地址转换为结构化地址**、**输入部分地址联想下级**等。
+
+[![Build Status](https://travis-ci.org/wi1dcard/china-divisions.svg?branch=master)](https://travis-ci.org/wi1dcard/china-divisions)
+[![Coverage Status](https://coveralls.io/repos/github/wi1dcard/china-divisions/badge.svg)](https://coveralls.io/github/wi1dcard/china-divisions)
+[![StyleCI](https://github.styleci.io/repos/151451370/shield?branch=master)](https://github.styleci.io/repos/151451370)
 
 ## [SDK](src/)
 
