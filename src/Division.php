@@ -65,7 +65,7 @@ class Division
     }
 
     /**
-     * 刷新子区划
+     * 刷新子区划信息
      *
      * @return void
      */
@@ -93,7 +93,7 @@ class Division
     }
 
     /**
-     * 自身信息
+     * 获取自身信息
      *
      * @return array
      */
@@ -111,7 +111,7 @@ class Division
      *
      * @return array
      */
-    protected function selfWithChildren()
+    public function selfWithChildren()
     {
         $data = $this->data;
         $data['children'] = $this->children();
@@ -165,7 +165,7 @@ class Division
     }
 
     /**
-     * 获取父级规划
+     * 获取上一级父区划
      *
      * @return static
      */
@@ -177,7 +177,7 @@ class Division
     }
 
     /**
-     * 获取完整行政规划链
+     * 获取所有上级父区划
      *
      * @see self::breadcrumb()
      * @return static[]
