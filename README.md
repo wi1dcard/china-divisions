@@ -1,16 +1,25 @@
 # 中国行政区划地址库 SDK + 爬虫 + 数据
 
-📍 本项目主要分为三大部分，如标题所示；同步更新 [GitHub](https://github.com/wi1dcard/china-divisions) / [Gitee](https://gitee.com/wi1dcard/china-divisions)。
+📍 本项目主要分为三大部分，如标题所示。
 
 典型应用场景如：**选择省市区关联下级**、**输入文本地址转换为结构化地址**、**输入部分地址联想下级**等。
+
+❤️ 同步更新 [GitHub](https://github.com/wi1dcard/china-divisions) / [Gitee](https://gitee.com/wi1dcard/china-divisions)。
 
 [![Build Status](https://travis-ci.org/wi1dcard/china-divisions.svg?branch=master)](https://travis-ci.org/wi1dcard/china-divisions)
 [![Coverage Status](https://coveralls.io/repos/github/wi1dcard/china-divisions/badge.svg)](https://coveralls.io/github/wi1dcard/china-divisions)
 [![StyleCI](https://github.styleci.io/repos/151451370/shield?branch=master)](https://github.styleci.io/repos/151451370)
+[![Packagist](https://img.shields.io/packagist/v/wi1dcard/china-divisions.svg)](https://packagist.org/packages/wi1dcard/china-divisions)
 
 ## [SDK](src/)
 
-使用方法非常简单：
+使用方法十分简单，首先使用 Composer 安装。
+
+```bash
+composer require wi1dcard/china-divisions
+```
+
+方法概览如下：
 
 ```php
 use ChinaDivisions;
