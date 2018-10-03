@@ -2,14 +2,14 @@
 
 namespace ChinaDivisions;
 
+use ChinaDivisions\Exceptions\ResponseException;
+use GuzzleHttp\Client as HttpClient;
+use GuzzleHttp\ClientInterface;
+use GuzzleHttp\Exception\BadResponseException;
 use GuzzleHttp\Psr7\Request;
 use Psr\Http\Message\RequestInterface;
-use GuzzleHttp\ClientInterface;
-use GuzzleHttp\Client as HttpClient;
 use Spatie\ArrayToXml\ArrayToXml;
 use function GuzzleHttp\Psr7\build_query;
-use GuzzleHttp\Exception\BadResponseException;
-use ChinaDivisions\Exceptions\ResponseException;
 
 class Client
 {
@@ -21,7 +21,7 @@ class Client
      * @var Signature
      */
     protected $signer;
-    
+
     /**
      * 请求器
      *
@@ -38,10 +38,11 @@ class Client
     /**
      * 构建请求
      *
-     * @param string $msgType
-     * @param string $logisticProviderId
+     * @param string       $msgType
+     * @param string       $logisticProviderId
      * @param string|array $logisticsInterface
-     * @param string $salt
+     * @param string       $salt
+     *
      * @return RequestInterface
      */
     public function build($msgType, $logisticProviderId, $logisticsInterface, $salt)
@@ -49,14 +50,14 @@ class Client
         if (is_array($logisticsInterface)) {
             $logisticsInterface = ArrayToXml::convert($logisticsInterface, 'request', true);
         }
-        
+
         $dataDigest = $this->signer->make($logisticsInterface, $salt);
 
         $body = build_query([
-            'msg_type' => $msgType,
+            'msg_type'             => $msgType,
             'logistic_provider_id' => $logisticProviderId,
-            'logistics_interface' => $logisticsInterface,
-            'data_digest' => $dataDigest,
+            'logistics_interface'  => $logisticsInterface,
+            'data_digest'          => $dataDigest,
         ]);
 
         return new Request('POST', $this->gateway, ['Content-Type' => 'application/x-www-form-urlencoded'], $body);

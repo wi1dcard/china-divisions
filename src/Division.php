@@ -2,14 +2,12 @@
 
 namespace ChinaDivisions;
 
-use GuzzleHttp\ClientInterface;
-
 class Division
 {
     /**
      * 区划 ID
      *
-     * @var string|integer
+     * @var string|int
      */
     protected $divisionId;
 
@@ -115,7 +113,7 @@ class Division
     {
         $data = $this->data;
         $data['children'] = $this->children();
-        
+
         return $data;
     }
 
@@ -180,6 +178,7 @@ class Division
      * 获取所有上级父区划
      *
      * @see self::breadcrumb()
+     *
      * @return static[]
      */
     public function ancestors()
@@ -191,6 +190,7 @@ class Division
             }
             $ancestors = $func($item->parent());
             $ancestors[] = $item;
+
             return $ancestors;
         };
 
@@ -202,8 +202,9 @@ class Division
      *
      * @param string $detailAddress
      * @param string $divisionAddress
-     * @param int $limit
-     * @param bool $isDegrade
+     * @param int    $limit
+     * @param bool   $isDegrade
+     *
      * @return array
      */
     public function guess($detailAddress, $divisionAddress = '', $limit = 10, $isDegrade = false)
@@ -213,9 +214,9 @@ class Division
             'cndzk_guess_address_cpcode',
             [
                 'divisionAddress' => $divisionAddress ?: $this->breadcrumb(),
-                'detailAddress' => $detailAddress,
-                'isDegrade' => $isDegrade ? 1 : 0,
-                'limit' => intval($limit),
+                'detailAddress'   => $detailAddress,
+                'isDegrade'       => $isDegrade ? 1 : 0,
+                'limit'           => intval($limit),
             ],
             'cndzk_guess_address'
         );
@@ -237,7 +238,7 @@ class Division
             'cndzk_address_query_cpcode',
             [
                 'address' => $fullAddress,
-                'limit' => intval($limit),
+                'limit'   => intval($limit),
             ],
             'cndzk_address_query'
         );
