@@ -74,14 +74,4 @@ class DivisionTest extends TestCase
 
         $this->assertTrue(count($result) > 0);
     }
-
-    /**
-     * @depends testGetAncestors
-     */
-    public function testSearch(Division $division)
-    {
-        $result = $division->search('北京北京市昌平区回龙观和谐家园一区');
-
-        $this->assertTrue(count($result) > 0);
-    }
 }

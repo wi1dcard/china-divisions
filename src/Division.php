@@ -230,6 +230,8 @@ class Division
      * 地址规范查询
      *
      * @return array
+     * 
+     * @deprecated v0.1.2
      */
     public function search($fullAddress, $limit = 20)
     {
