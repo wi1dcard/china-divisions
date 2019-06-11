@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 
 use ChinaDivisions\Division;
@@ -6,16 +7,17 @@ use ChinaDivisions\Exceptions\ResponseException;
 
 require __DIR__ . '/../vendor/autoload.php';
 
-const MAX_LEVEL = 4; // 1.国家 -> 2.省 -> 3.市 -> 4.区县 -> 5.街道乡镇
-const CHILDREN_KEY = 'children'; // 子节点键名
+define('MAX_LEVEL', getenv('MAX_LEVEL') ?: 4); // 1.国家 -> 2.省 -> 3.市 -> 4.区县 -> 5.街道乡镇
+define('CHILDREN_KEY', getenv('CHILDREN_KEY') ?: 'children'); // 子节点键名
 const DIVISION_FILTER = 'division_filter';
 
-function division_filter(array $data) : ?array
+function division_filter(array $data): ?array
 {
     if ($data['isdeleted'] != 'false') { // 剔除已废弃的区划
         return null;
     }
 
+    return $data;
     return [
         'id' => intval($data['divisionId']),
         'level' => intval($data['divisionLevel']),
