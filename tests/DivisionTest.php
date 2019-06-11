@@ -5,7 +5,7 @@ use ChinaDivisions\Division;
 
 class DivisionTest extends TestCase
 {
-    public function testGetSelf() : Division
+    public function testGetSelf(): Division
     {
         $division = new Division('110101');
 
@@ -70,6 +70,8 @@ class DivisionTest extends TestCase
      */
     public function testGuessAddress(Division $division, $address)
     {
+        $this->markTestSkipped('Skipped due to unstable data source.');
+
         $result = $division->guess('万达', $address);
 
         $this->assertTrue(count($result) > 0);
