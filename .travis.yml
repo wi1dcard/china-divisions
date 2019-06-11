@@ -2,9 +2,9 @@ language: php
 
 matrix:
   include:
-    - php: 7.0
     - php: 7.1
     - php: 7.2
+    - php: 7.3
 
 install:
   - composer update --prefer-dist
@@ -14,7 +14,7 @@ script:
 
 after_success:
   - |
-    if [[ ${TRAVIS_PHP_VERSION:0:3} == "7.1" ]]; then
+    if [[ ${TRAVIS_PHP_VERSION:0:3} == "7.2" ]]; then
       wget https://github.com/php-coveralls/php-coveralls/releases/download/v2.1.0/php-coveralls.phar;
       php php-coveralls.phar -v;
     fi
