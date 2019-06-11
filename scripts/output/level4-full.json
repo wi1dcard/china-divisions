@@ -54,28 +54,6 @@
                             "parentId": "110100"
                         },
                         {
-                            "divisionCode": "110103",
-                            "divisionLevel": "4",
-                            "pinyin": "chong wen qu",
-                            "divisionName": "崇文区",
-                            "divisionTname": "崇文區",
-                            "divisionId": "110103",
-                            "divisionAbbName": "崇文",
-                            "isdeleted": "true",
-                            "parentId": "110100"
-                        },
-                        {
-                            "divisionCode": "110104",
-                            "divisionLevel": "4",
-                            "pinyin": "xuan wu qu",
-                            "divisionName": "宣武区",
-                            "divisionTname": "宣武區",
-                            "divisionId": "110104",
-                            "divisionAbbName": "宣武",
-                            "isdeleted": "true",
-                            "parentId": "110100"
-                        },
-                        {
                             "divisionCode": "110105",
                             "divisionLevel": "4",
                             "pinyin": "chao yang qu",
@@ -333,39 +311,6 @@
                             "parentId": "120100"
                         },
                         {
-                            "divisionCode": "120107",
-                            "divisionLevel": "4",
-                            "pinyin": "tang gu qu",
-                            "divisionName": "塘沽区",
-                            "divisionTname": "塘沽區",
-                            "divisionId": "120107",
-                            "divisionAbbName": "塘沽",
-                            "isdeleted": "true",
-                            "parentId": "120100"
-                        },
-                        {
-                            "divisionCode": "120108",
-                            "divisionLevel": "4",
-                            "pinyin": "han gu qu",
-                            "divisionName": "汉沽区",
-                            "divisionTname": "漢沽區",
-                            "divisionId": "120108",
-                            "divisionAbbName": "汉沽",
-                            "isdeleted": "true",
-                            "parentId": "120100"
-                        },
-                        {
-                            "divisionCode": "120109",
-                            "divisionLevel": "4",
-                            "pinyin": "da gang qu",
-                            "divisionName": "大港区",
-                            "divisionTname": "大港區",
-                            "divisionId": "120109",
-                            "divisionAbbName": "大港",
-                            "isdeleted": "true",
-                            "parentId": "120100"
-                        },
-                        {
                             "divisionCode": "120110",
                             "divisionLevel": "4",
                             "pinyin": "dong li qu",
@@ -521,17 +466,6 @@
                             "divisionId": "130102",
                             "divisionAbbName": "长安",
                             "isdeleted": "false",
-                            "parentId": "130100"
-                        },
-                        {
-                            "divisionCode": "130103",
-                            "divisionLevel": "4",
-                            "pinyin": "qiao dong qu",
-                            "divisionName": "桥东区",
-                            "divisionTname": "橋東區",
-                            "divisionId": "130103",
-                            "divisionAbbName": "桥东",
-                            "isdeleted": "true",
                             "parentId": "130100"
                         },
                         {
@@ -1054,17 +988,6 @@
                             "divisionAbbName": "其它",
                             "isdeleted": "false",
                             "parentId": "130300"
-                        },
-                        {
-                            "divisionCode": "130399",
-                            "divisionLevel": "4",
-                            "pinyin": "jing ji ji shu kai fa qu",
-                            "divisionName": "经济技术开发区",
-                            "divisionTname": "經濟技術開發區",
-                            "divisionId": "130399",
-                            "divisionAbbName": "经济技术开发",
-                            "isdeleted": "true",
-                            "parentId": "130300"
                         }
                     ]
                 },
@@ -1121,17 +1044,6 @@
                             "divisionId": "130406",
                             "divisionAbbName": "峰峰矿",
                             "isdeleted": "false",
-                            "parentId": "130400"
-                        },
-                        {
-                            "divisionCode": "130421",
-                            "divisionLevel": "4",
-                            "pinyin": "han dan xian",
-                            "divisionName": "邯郸县",
-                            "divisionTname": "邯鄲縣",
-                            "divisionId": "130421",
-                            "divisionAbbName": "邯郸",
-                            "isdeleted": "true",
                             "parentId": "130400"
                         },
                         {
@@ -1568,17 +1480,6 @@
                             "parentId": "130600"
                         },
                         {
-                            "divisionCode": "130604",
-                            "divisionLevel": "4",
-                            "pinyin": "nan shi qu",
-                            "divisionName": "南市区",
-                            "divisionTname": "南市區",
-                            "divisionId": "130604",
-                            "divisionAbbName": "南市",
-                            "isdeleted": "true",
-                            "parentId": "130600"
-                        },
-                        {
                             "divisionCode": "130607",
                             "divisionLevel": "4",
                             "pinyin": "man cheng qu",
@@ -1821,17 +1722,6 @@
                             "parentId": "130600"
                         },
                         {
-                            "divisionCode": "130698",
-                            "divisionLevel": "4",
-                            "pinyin": "gao kai qu",
-                            "divisionName": "高开区",
-                            "divisionTname": "高開區",
-                            "divisionId": "130698",
-                            "divisionAbbName": "高开",
-                            "isdeleted": "true",
-                            "parentId": "130600"
-                        },
-                        {
                             "divisionCode": "130699",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -1897,17 +1787,6 @@
                             "divisionId": "130706",
                             "divisionAbbName": "下花园",
                             "isdeleted": "false",
-                            "parentId": "130700"
-                        },
-                        {
-                            "divisionCode": "130721",
-                            "divisionLevel": "4",
-                            "pinyin": "xuan hua xian",
-                            "divisionName": "宣化县",
-                            "divisionTname": "宣化縣",
-                            "divisionId": "130721",
-                            "divisionAbbName": "宣化",
-                            "isdeleted": "true",
                             "parentId": "130700"
                         },
                         {
@@ -2500,28 +2379,6 @@
                             "parentId": "131000"
                         },
                         {
-                            "divisionCode": "131051",
-                            "divisionLevel": "4",
-                            "pinyin": "kai fa qu",
-                            "divisionName": "开发区",
-                            "divisionTname": "開發區",
-                            "divisionId": "131051",
-                            "divisionAbbName": "开发",
-                            "isdeleted": "true",
-                            "parentId": "131000"
-                        },
-                        {
-                            "divisionCode": "131052",
-                            "divisionLevel": "4",
-                            "pinyin": "yan jiao jing ji ji shu kai fa qu",
-                            "divisionName": "燕郊经济技术开发区",
-                            "divisionTname": "燕郊經濟技術開發區",
-                            "divisionId": "131052",
-                            "divisionAbbName": "燕郊经济技术开发",
-                            "isdeleted": "true",
-                            "parentId": "131000"
-                        },
-                        {
                             "divisionCode": "131081",
                             "divisionLevel": "4",
                             "pinyin": "ba zhou shi",
@@ -2860,39 +2717,6 @@
                     "parentId": "140000",
                     "children": [
                         {
-                            "divisionCode": "140202",
-                            "divisionLevel": "4",
-                            "pinyin": "cheng qu",
-                            "divisionName": "城区",
-                            "divisionTname": "城區",
-                            "divisionId": "140202",
-                            "divisionAbbName": "城区",
-                            "isdeleted": "false",
-                            "parentId": "140200"
-                        },
-                        {
-                            "divisionCode": "140203",
-                            "divisionLevel": "4",
-                            "pinyin": "kuang qu",
-                            "divisionName": "矿区",
-                            "divisionTname": "礦區",
-                            "divisionId": "140203",
-                            "divisionAbbName": "矿区",
-                            "isdeleted": "false",
-                            "parentId": "140200"
-                        },
-                        {
-                            "divisionCode": "140211",
-                            "divisionLevel": "4",
-                            "pinyin": "nan jiao qu",
-                            "divisionName": "南郊区",
-                            "divisionTname": "南郊區",
-                            "divisionId": "140211",
-                            "divisionAbbName": "南郊",
-                            "isdeleted": "false",
-                            "parentId": "140200"
-                        },
-                        {
                             "divisionCode": "140212",
                             "divisionLevel": "4",
                             "pinyin": "xin rong qu",
@@ -2900,6 +2724,28 @@
                             "divisionTname": "新榮區",
                             "divisionId": "140212",
                             "divisionAbbName": "新荣",
+                            "isdeleted": "false",
+                            "parentId": "140200"
+                        },
+                        {
+                            "divisionCode": "140213",
+                            "divisionLevel": "4",
+                            "pinyin": "ping cheng qu",
+                            "divisionName": "平城区",
+                            "divisionTname": "平城區",
+                            "divisionId": "140213",
+                            "divisionAbbName": "平城",
+                            "isdeleted": "false",
+                            "parentId": "140200"
+                        },
+                        {
+                            "divisionCode": "140214",
+                            "divisionLevel": "4",
+                            "pinyin": "yun gang qu",
+                            "divisionName": "云冈区",
+                            "divisionTname": "雲岡區",
+                            "divisionId": "140214",
+                            "divisionAbbName": "云冈",
                             "isdeleted": "false",
                             "parentId": "140200"
                         },
@@ -2970,13 +2816,13 @@
                             "parentId": "140200"
                         },
                         {
-                            "divisionCode": "140227",
+                            "divisionCode": "140215",
                             "divisionLevel": "4",
-                            "pinyin": "da tong xian",
-                            "divisionName": "大同县",
-                            "divisionTname": "大同縣",
+                            "pinyin": "yun zhou qu",
+                            "divisionName": "云州区",
+                            "divisionTname": "雲州區",
                             "divisionId": "140227",
-                            "divisionAbbName": "大同",
+                            "divisionAbbName": "云州",
                             "isdeleted": "false",
                             "parentId": "140200"
                         },
@@ -3227,17 +3073,6 @@
                             "parentId": "140400"
                         },
                         {
-                            "divisionCode": "140484",
-                            "divisionLevel": "4",
-                            "pinyin": "gao xin qu",
-                            "divisionName": "高新区",
-                            "divisionTname": "高新區",
-                            "divisionId": "140484",
-                            "divisionAbbName": "高新",
-                            "isdeleted": "true",
-                            "parentId": "140400"
-                        },
-                        {
                             "divisionCode": "140485",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -3407,11 +3242,11 @@
                             "parentId": "140600"
                         },
                         {
-                            "divisionCode": "140624",
+                            "divisionCode": "140681",
                             "divisionLevel": "4",
-                            "pinyin": "huai ren xian",
-                            "divisionName": "怀仁县",
-                            "divisionTname": "懷仁縣",
+                            "pinyin": "huai ren shi",
+                            "divisionName": "怀仁市",
+                            "divisionTname": "懷仁市",
                             "divisionId": "140624",
                             "divisionAbbName": "怀仁",
                             "isdeleted": "false",
@@ -5834,17 +5669,6 @@
                             "parentId": "210100"
                         },
                         {
-                            "divisionCode": "210113",
-                            "divisionLevel": "4",
-                            "pinyin": "xin cheng zi qu",
-                            "divisionName": "新城子区",
-                            "divisionTname": "新城子區",
-                            "divisionId": "210113",
-                            "divisionAbbName": "新城子",
-                            "isdeleted": "true",
-                            "parentId": "210100"
-                        },
-                        {
                             "divisionCode": "210114",
                             "divisionLevel": "4",
                             "pinyin": "yu hong qu",
@@ -5897,28 +5721,6 @@
                             "divisionId": "210181",
                             "divisionAbbName": "新民",
                             "isdeleted": "false",
-                            "parentId": "210100"
-                        },
-                        {
-                            "divisionCode": "210182",
-                            "divisionLevel": "4",
-                            "pinyin": "hun nan xin qu",
-                            "divisionName": "浑南新区",
-                            "divisionTname": "渾南新區",
-                            "divisionId": "210182",
-                            "divisionAbbName": "浑南",
-                            "isdeleted": "true",
-                            "parentId": "210100"
-                        },
-                        {
-                            "divisionCode": "210183",
-                            "divisionLevel": "4",
-                            "pinyin": "zhang shi kai fa qu",
-                            "divisionName": "张士开发区",
-                            "divisionTname": "張士開發區",
-                            "divisionId": "210183",
-                            "divisionAbbName": "张士开发",
-                            "isdeleted": "true",
                             "parentId": "210100"
                         },
                         {
@@ -6034,17 +5836,6 @@
                             "parentId": "210200"
                         },
                         {
-                            "divisionCode": "210251",
-                            "divisionLevel": "4",
-                            "pinyin": "kai fa qu",
-                            "divisionName": "开发区",
-                            "divisionTname": "開發區",
-                            "divisionId": "210251",
-                            "divisionAbbName": "开发",
-                            "isdeleted": "true",
-                            "parentId": "210200"
-                        },
-                        {
                             "divisionCode": "210281",
                             "divisionLevel": "4",
                             "pinyin": "wa fang dian shi",
@@ -6075,17 +5866,6 @@
                             "divisionId": "210283",
                             "divisionAbbName": "庄河",
                             "isdeleted": "false",
-                            "parentId": "210200"
-                        },
-                        {
-                            "divisionCode": "210297",
-                            "divisionLevel": "4",
-                            "pinyin": "ling qian qu",
-                            "divisionName": "岭前区",
-                            "divisionTname": "嶺前區",
-                            "divisionId": "210297",
-                            "divisionAbbName": "岭前",
-                            "isdeleted": "true",
                             "parentId": "210200"
                         },
                         {
@@ -6176,17 +5956,6 @@
                             "divisionId": "210323",
                             "divisionAbbName": "岫岩",
                             "isdeleted": "false",
-                            "parentId": "210300"
-                        },
-                        {
-                            "divisionCode": "210351",
-                            "divisionLevel": "4",
-                            "pinyin": "gao xin qu",
-                            "divisionName": "高新区",
-                            "divisionTname": "高新區",
-                            "divisionId": "210351",
-                            "divisionAbbName": "高新",
-                            "isdeleted": "true",
                             "parentId": "210300"
                         },
                         {
@@ -7382,50 +7151,6 @@
                             "parentId": "220100"
                         },
                         {
-                            "divisionCode": "220184",
-                            "divisionLevel": "4",
-                            "pinyin": "gao xin ji shu chan ye kai fa qu",
-                            "divisionName": "高新技术产业开发区",
-                            "divisionTname": "高新技術產業開發區",
-                            "divisionId": "220184",
-                            "divisionAbbName": "高新",
-                            "isdeleted": "true",
-                            "parentId": "220100"
-                        },
-                        {
-                            "divisionCode": "220185",
-                            "divisionLevel": "4",
-                            "pinyin": "qi che chan ye kai fa qu",
-                            "divisionName": "汽车产业开发区",
-                            "divisionTname": "汽車產業開發區",
-                            "divisionId": "220185",
-                            "divisionAbbName": "汽车产业开发",
-                            "isdeleted": "true",
-                            "parentId": "220100"
-                        },
-                        {
-                            "divisionCode": "220186",
-                            "divisionLevel": "4",
-                            "pinyin": "jing ji ji shu kai fa qu",
-                            "divisionName": "经济技术开发区",
-                            "divisionTname": "經濟技術開發區",
-                            "divisionId": "220186",
-                            "divisionAbbName": "经开",
-                            "isdeleted": "true",
-                            "parentId": "220100"
-                        },
-                        {
-                            "divisionCode": "220187",
-                            "divisionLevel": "4",
-                            "pinyin": "jing yue lv you kai fa qu",
-                            "divisionName": "净月旅游开发区",
-                            "divisionTname": "淨月旅遊開發區",
-                            "divisionId": "220187",
-                            "divisionAbbName": "净月",
-                            "isdeleted": "true",
-                            "parentId": "220100"
-                        },
-                        {
                             "divisionCode": "220188",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -8249,17 +7974,6 @@
                             "parentId": "230100"
                         },
                         {
-                            "divisionCode": "230107",
-                            "divisionLevel": "4",
-                            "pinyin": "dong li qu",
-                            "divisionName": "动力区",
-                            "divisionTname": "動力區",
-                            "divisionId": "230107",
-                            "divisionAbbName": "动力",
-                            "isdeleted": "true",
-                            "parentId": "230100"
-                        },
-                        {
                             "divisionCode": "230108",
                             "divisionLevel": "4",
                             "pinyin": "ping fang qu",
@@ -8411,17 +8125,6 @@
                             "divisionId": "230184",
                             "divisionAbbName": "五常",
                             "isdeleted": "false",
-                            "parentId": "230100"
-                        },
-                        {
-                            "divisionCode": "230185",
-                            "divisionLevel": "4",
-                            "pinyin": "a cheng shi",
-                            "divisionName": "阿城市",
-                            "divisionTname": "阿城市",
-                            "divisionId": "230185",
-                            "divisionAbbName": "阿城",
-                            "isdeleted": "true",
                             "parentId": "230100"
                         },
                         {
@@ -9330,17 +9033,6 @@
                     "parentId": "230000",
                     "children": [
                         {
-                            "divisionCode": "230802",
-                            "divisionLevel": "4",
-                            "pinyin": "yong hong qu",
-                            "divisionName": "永红区",
-                            "divisionTname": "永紅區",
-                            "divisionId": "230802",
-                            "divisionAbbName": "永红",
-                            "isdeleted": "true",
-                            "parentId": "230800"
-                        },
-                        {
                             "divisionCode": "230803",
                             "divisionLevel": "4",
                             "pinyin": "xiang yang qu",
@@ -9901,39 +9593,6 @@
                     "parentId": "230000",
                     "children": [
                         {
-                            "divisionCode": "232702",
-                            "divisionLevel": "4",
-                            "pinyin": "song ling qu",
-                            "divisionName": "松岭区",
-                            "divisionTname": "松嶺區",
-                            "divisionId": "232702",
-                            "divisionAbbName": "松岭",
-                            "isdeleted": "true",
-                            "parentId": "232700"
-                        },
-                        {
-                            "divisionCode": "232703",
-                            "divisionLevel": "4",
-                            "pinyin": "xin lin qu",
-                            "divisionName": "新林区",
-                            "divisionTname": "新林區",
-                            "divisionId": "232703",
-                            "divisionAbbName": "新林",
-                            "isdeleted": "true",
-                            "parentId": "232700"
-                        },
-                        {
-                            "divisionCode": "232704",
-                            "divisionLevel": "4",
-                            "pinyin": "hu zhong qu",
-                            "divisionName": "呼中区",
-                            "divisionTname": "呼中區",
-                            "divisionId": "232704",
-                            "divisionAbbName": "呼中",
-                            "isdeleted": "true",
-                            "parentId": "232700"
-                        },
-                        {
                             "divisionCode": "232721",
                             "divisionLevel": "4",
                             "pinyin": "hu ma xian",
@@ -9956,18 +9615,18 @@
                             "parentId": "232700"
                         },
                         {
-                            "divisionCode": "232723",
+                            "divisionCode": "232701",
                             "divisionLevel": "4",
-                            "pinyin": "mo he xian",
-                            "divisionName": "漠河县",
-                            "divisionTname": "漠河縣",
+                            "pinyin": "mo he shi",
+                            "divisionName": "漠河市",
+                            "divisionTname": "漠河市",
                             "divisionId": "232723",
                             "divisionAbbName": "漠河",
                             "isdeleted": "false",
                             "parentId": "232700"
                         },
                         {
-                            "divisionCode": "232701",
+                            "divisionCode": "232718",
                             "divisionLevel": "4",
                             "pinyin": "jia ge da qi qu",
                             "divisionName": "加格达奇区",
@@ -10026,17 +9685,6 @@
                             "parentId": "310100"
                         },
                         {
-                            "divisionCode": "310103",
-                            "divisionLevel": "4",
-                            "pinyin": "lu wan qu",
-                            "divisionName": "卢湾区",
-                            "divisionTname": "盧灣區",
-                            "divisionId": "310103",
-                            "divisionAbbName": "卢湾",
-                            "isdeleted": "true",
-                            "parentId": "310100"
-                        },
-                        {
                             "divisionCode": "310104",
                             "divisionLevel": "4",
                             "pinyin": "xu hui qu",
@@ -10078,17 +9726,6 @@
                             "divisionId": "310107",
                             "divisionAbbName": "普陀",
                             "isdeleted": "false",
-                            "parentId": "310100"
-                        },
-                        {
-                            "divisionCode": "310108",
-                            "divisionLevel": "4",
-                            "pinyin": "zha bei qu",
-                            "divisionName": "闸北区",
-                            "divisionTname": "閘北區",
-                            "divisionId": "310108",
-                            "divisionAbbName": "闸北",
-                            "isdeleted": "true",
                             "parentId": "310100"
                         },
                         {
@@ -10191,17 +9828,6 @@
                             "parentId": "310100"
                         },
                         {
-                            "divisionCode": "310119",
-                            "divisionLevel": "4",
-                            "pinyin": "nan hui qu",
-                            "divisionName": "南汇区",
-                            "divisionTname": "南匯區",
-                            "divisionId": "310119",
-                            "divisionAbbName": "南汇",
-                            "isdeleted": "true",
-                            "parentId": "310100"
-                        },
-                        {
                             "divisionCode": "310120",
                             "divisionLevel": "4",
                             "pinyin": "feng xian qu",
@@ -10210,17 +9836,6 @@
                             "divisionId": "310120",
                             "divisionAbbName": "奉贤",
                             "isdeleted": "false",
-                            "parentId": "310100"
-                        },
-                        {
-                            "divisionCode": "310152",
-                            "divisionLevel": "4",
-                            "pinyin": "chuan sha qu",
-                            "divisionName": "川沙区",
-                            "divisionTname": "川沙區",
-                            "divisionId": "310152",
-                            "divisionAbbName": "川沙",
-                            "isdeleted": "true",
                             "parentId": "310100"
                         },
                         {
@@ -10283,17 +9898,6 @@
                             "parentId": "320100"
                         },
                         {
-                            "divisionCode": "320103",
-                            "divisionLevel": "4",
-                            "pinyin": "bai xia qu",
-                            "divisionName": "白下区",
-                            "divisionTname": "白下區",
-                            "divisionId": "320103",
-                            "divisionAbbName": "白下",
-                            "isdeleted": "true",
-                            "parentId": "320100"
-                        },
-                        {
                             "divisionCode": "320104",
                             "divisionLevel": "4",
                             "pinyin": "qin huai qu",
@@ -10324,17 +9928,6 @@
                             "divisionId": "320106",
                             "divisionAbbName": "鼓楼",
                             "isdeleted": "false",
-                            "parentId": "320100"
-                        },
-                        {
-                            "divisionCode": "320107",
-                            "divisionLevel": "4",
-                            "pinyin": "xia guan qu",
-                            "divisionName": "下关区",
-                            "divisionTname": "下關區",
-                            "divisionId": "320107",
-                            "divisionAbbName": "下关",
-                            "isdeleted": "true",
                             "parentId": "320100"
                         },
                         {
@@ -10439,39 +10032,6 @@
                     "parentId": "320000",
                     "children": [
                         {
-                            "divisionCode": "320202",
-                            "divisionLevel": "4",
-                            "pinyin": "chong an qu",
-                            "divisionName": "崇安区",
-                            "divisionTname": "崇安區",
-                            "divisionId": "320202",
-                            "divisionAbbName": "崇安",
-                            "isdeleted": "true",
-                            "parentId": "320200"
-                        },
-                        {
-                            "divisionCode": "320203",
-                            "divisionLevel": "4",
-                            "pinyin": "nan chang qu",
-                            "divisionName": "南长区",
-                            "divisionTname": "南長區",
-                            "divisionId": "320203",
-                            "divisionAbbName": "南长",
-                            "isdeleted": "true",
-                            "parentId": "320200"
-                        },
-                        {
-                            "divisionCode": "320204",
-                            "divisionLevel": "4",
-                            "pinyin": "bei tang qu",
-                            "divisionName": "北塘区",
-                            "divisionTname": "北塘區",
-                            "divisionId": "320204",
-                            "divisionAbbName": "北塘",
-                            "isdeleted": "true",
-                            "parentId": "320200"
-                        },
-                        {
                             "divisionCode": "320205",
                             "divisionLevel": "4",
                             "pinyin": "xi shan qu",
@@ -10549,17 +10109,6 @@
                             "parentId": "320200"
                         },
                         {
-                            "divisionCode": "320296",
-                            "divisionLevel": "4",
-                            "pinyin": "xin qu",
-                            "divisionName": "新区",
-                            "divisionTname": "新區",
-                            "divisionId": "320296",
-                            "divisionAbbName": "新区",
-                            "isdeleted": "true",
-                            "parentId": "320200"
-                        },
-                        {
                             "divisionCode": "320297",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -10603,17 +10152,6 @@
                             "divisionId": "320303",
                             "divisionAbbName": "云龙",
                             "isdeleted": "false",
-                            "parentId": "320300"
-                        },
-                        {
-                            "divisionCode": "320304",
-                            "divisionLevel": "4",
-                            "pinyin": "jiu li qu",
-                            "divisionName": "九里区",
-                            "divisionTname": "九裏區",
-                            "divisionId": "320304",
-                            "divisionAbbName": "九里",
-                            "isdeleted": "true",
                             "parentId": "320300"
                         },
                         {
@@ -10751,17 +10289,6 @@
                             "parentId": "320400"
                         },
                         {
-                            "divisionCode": "320405",
-                            "divisionLevel": "4",
-                            "pinyin": "qi shu yan qu",
-                            "divisionName": "戚墅堰区",
-                            "divisionTname": "戚墅堰區",
-                            "divisionId": "320405",
-                            "divisionAbbName": "戚墅堰",
-                            "isdeleted": "true",
-                            "parentId": "320400"
-                        },
-                        {
                             "divisionCode": "320411",
                             "divisionLevel": "4",
                             "pinyin": "xin bei qu",
@@ -10829,39 +10356,6 @@
                     "isdeleted": "false",
                     "parentId": "320000",
                     "children": [
-                        {
-                            "divisionCode": "320502",
-                            "divisionLevel": "4",
-                            "pinyin": "cang lang qu",
-                            "divisionName": "沧浪区",
-                            "divisionTname": "滄浪區",
-                            "divisionId": "320502",
-                            "divisionAbbName": "沧浪",
-                            "isdeleted": "true",
-                            "parentId": "320500"
-                        },
-                        {
-                            "divisionCode": "320503",
-                            "divisionLevel": "4",
-                            "pinyin": "ping jiang qu",
-                            "divisionName": "平江区",
-                            "divisionTname": "平江區",
-                            "divisionId": "320503",
-                            "divisionAbbName": "平江",
-                            "isdeleted": "true",
-                            "parentId": "320500"
-                        },
-                        {
-                            "divisionCode": "320504",
-                            "divisionLevel": "4",
-                            "pinyin": "jin chang qu",
-                            "divisionName": "金阊区",
-                            "divisionTname": "金閶區",
-                            "divisionId": "320504",
-                            "divisionAbbName": "金阊",
-                            "isdeleted": "true",
-                            "parentId": "320500"
-                        },
                         {
                             "divisionCode": "320505",
                             "divisionLevel": "4",
@@ -10973,28 +10467,6 @@
                             "parentId": "320500"
                         },
                         {
-                            "divisionCode": "320594",
-                            "divisionLevel": "4",
-                            "pinyin": "xin qu",
-                            "divisionName": "新区",
-                            "divisionTname": "新區",
-                            "divisionId": "320594",
-                            "divisionAbbName": "新区",
-                            "isdeleted": "true",
-                            "parentId": "320500"
-                        },
-                        {
-                            "divisionCode": "320595",
-                            "divisionLevel": "4",
-                            "pinyin": "yuan qu",
-                            "divisionName": "园区",
-                            "divisionTname": "園區",
-                            "divisionId": "320595",
-                            "divisionAbbName": "园区",
-                            "isdeleted": "true",
-                            "parentId": "320500"
-                        },
-                        {
                             "divisionCode": "320596",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -11052,11 +10524,11 @@
                             "parentId": "320600"
                         },
                         {
-                            "divisionCode": "320621",
+                            "divisionCode": "320685",
                             "divisionLevel": "4",
-                            "pinyin": "hai an xian",
-                            "divisionName": "海安县",
-                            "divisionTname": "海安縣",
+                            "pinyin": "hai an shi",
+                            "divisionName": "海安市",
+                            "divisionTname": "海安市",
                             "divisionId": "320621",
                             "divisionAbbName": "海安",
                             "isdeleted": "false",
@@ -11096,17 +10568,6 @@
                             "parentId": "320600"
                         },
                         {
-                            "divisionCode": "320683",
-                            "divisionLevel": "4",
-                            "pinyin": "tong zhou shi",
-                            "divisionName": "通州市",
-                            "divisionTname": "通州市",
-                            "divisionId": "320683",
-                            "divisionAbbName": "通州",
-                            "isdeleted": "true",
-                            "parentId": "320600"
-                        },
-                        {
                             "divisionCode": "320684",
                             "divisionLevel": "4",
                             "pinyin": "hai men shi",
@@ -11115,17 +10576,6 @@
                             "divisionId": "320684",
                             "divisionAbbName": "海门",
                             "isdeleted": "false",
-                            "parentId": "320600"
-                        },
-                        {
-                            "divisionCode": "320693",
-                            "divisionLevel": "4",
-                            "pinyin": "kai fa qu",
-                            "divisionName": "开发区",
-                            "divisionTname": "開發區",
-                            "divisionId": "320693",
-                            "divisionAbbName": "开发",
-                            "isdeleted": "true",
                             "parentId": "320600"
                         },
                         {
@@ -11161,17 +10611,6 @@
                             "divisionId": "320703",
                             "divisionAbbName": "连云",
                             "isdeleted": "false",
-                            "parentId": "320700"
-                        },
-                        {
-                            "divisionCode": "320705",
-                            "divisionLevel": "4",
-                            "pinyin": "xin pu qu",
-                            "divisionName": "新浦区",
-                            "divisionTname": "新浦區",
-                            "divisionId": "320705",
-                            "divisionAbbName": "新浦",
-                            "isdeleted": "true",
                             "parentId": "320700"
                         },
                         {
@@ -11284,17 +10723,6 @@
                             "divisionId": "320804",
                             "divisionAbbName": "淮阴",
                             "isdeleted": "false",
-                            "parentId": "320800"
-                        },
-                        {
-                            "divisionCode": "320811",
-                            "divisionLevel": "4",
-                            "pinyin": "qing pu qu",
-                            "divisionName": "清浦区",
-                            "divisionTname": "清浦區",
-                            "divisionId": "320811",
-                            "divisionAbbName": "清浦",
-                            "isdeleted": "true",
                             "parentId": "320800"
                         },
                         {
@@ -11511,17 +10939,6 @@
                             "parentId": "321000"
                         },
                         {
-                            "divisionCode": "321011",
-                            "divisionLevel": "4",
-                            "pinyin": "wei yang qu",
-                            "divisionName": "维扬区",
-                            "divisionTname": "維揚區",
-                            "divisionId": "321011",
-                            "divisionAbbName": "维扬",
-                            "isdeleted": "true",
-                            "parentId": "321000"
-                        },
-                        {
                             "divisionCode": "321023",
                             "divisionLevel": "4",
                             "pinyin": "bao ying xian",
@@ -11563,17 +10980,6 @@
                             "divisionId": "321088",
                             "divisionAbbName": "江都",
                             "isdeleted": "false",
-                            "parentId": "321000"
-                        },
-                        {
-                            "divisionCode": "321092",
-                            "divisionLevel": "4",
-                            "pinyin": "jing ji kai fa qu",
-                            "divisionName": "经济开发区",
-                            "divisionTname": "經濟開發區",
-                            "divisionId": "321092",
-                            "divisionAbbName": "经济开发",
-                            "isdeleted": "true",
                             "parentId": "321000"
                         },
                         {
@@ -12005,7 +11411,7 @@
                             "parentId": "330100"
                         },
                         {
-                            "divisionCode": "330185",
+                            "divisionCode": "330112",
                             "divisionLevel": "4",
                             "pinyin": "lin an qu",
                             "divisionName": "临安区",
@@ -12048,17 +11454,6 @@
                             "divisionId": "330203",
                             "divisionAbbName": "海曙",
                             "isdeleted": "false",
-                            "parentId": "330200"
-                        },
-                        {
-                            "divisionCode": "330204",
-                            "divisionLevel": "4",
-                            "pinyin": "jiang dong qu",
-                            "divisionName": "江东区",
-                            "divisionTname": "江東區",
-                            "divisionId": "330204",
-                            "divisionAbbName": "江东",
-                            "isdeleted": "true",
                             "parentId": "330200"
                         },
                         {
@@ -13217,28 +12612,6 @@
                             "parentId": "340100"
                         },
                         {
-                            "divisionCode": "340151",
-                            "divisionLevel": "4",
-                            "pinyin": "gao xin qu",
-                            "divisionName": "高新区",
-                            "divisionTname": "高新區",
-                            "divisionId": "340151",
-                            "divisionAbbName": "高新",
-                            "isdeleted": "true",
-                            "parentId": "340100"
-                        },
-                        {
-                            "divisionCode": "340191",
-                            "divisionLevel": "4",
-                            "pinyin": "zhong qu",
-                            "divisionName": "中区",
-                            "divisionTname": "中區",
-                            "divisionId": "340191",
-                            "divisionAbbName": "中区",
-                            "isdeleted": "true",
-                            "parentId": "340100"
-                        },
-                        {
                             "divisionCode": "340192",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -13258,17 +12631,6 @@
                             "divisionId": "341400",
                             "divisionAbbName": "巢湖",
                             "isdeleted": "false",
-                            "parentId": "340100"
-                        },
-                        {
-                            "divisionCode": "341402",
-                            "divisionLevel": "4",
-                            "pinyin": "ju chao qu",
-                            "divisionName": "居巢区",
-                            "divisionTname": "居巢區",
-                            "divisionId": "341402",
-                            "divisionAbbName": "居巢",
-                            "isdeleted": "true",
                             "parentId": "340100"
                         },
                         {
@@ -13610,17 +12972,6 @@
                     "parentId": "340000",
                     "children": [
                         {
-                            "divisionCode": "340502",
-                            "divisionLevel": "4",
-                            "pinyin": "jin jia zhuang qu",
-                            "divisionName": "金家庄区",
-                            "divisionTname": "金家莊區",
-                            "divisionId": "340502",
-                            "divisionAbbName": "金家庄",
-                            "isdeleted": "true",
-                            "parentId": "340500"
-                        },
-                        {
                             "divisionCode": "340503",
                             "divisionLevel": "4",
                             "pinyin": "hua shan qu",
@@ -13779,28 +13130,6 @@
                     "parentId": "340000",
                     "children": [
                         {
-                            "divisionCode": "340702",
-                            "divisionLevel": "4",
-                            "pinyin": "tong guan shan qu",
-                            "divisionName": "铜官山区",
-                            "divisionTname": "銅官山區",
-                            "divisionId": "340702",
-                            "divisionAbbName": "铜官山",
-                            "isdeleted": "true",
-                            "parentId": "340700"
-                        },
-                        {
-                            "divisionCode": "340703",
-                            "divisionLevel": "4",
-                            "pinyin": "shi zi shan qu",
-                            "divisionName": "狮子山区",
-                            "divisionTname": "獅子山區",
-                            "divisionId": "340703",
-                            "divisionAbbName": "狮子山",
-                            "isdeleted": "true",
-                            "parentId": "340700"
-                        },
-                        {
                             "divisionCode": "340705",
                             "divisionLevel": "4",
                             "pinyin": "tong guan qu",
@@ -13913,22 +13242,11 @@
                             "parentId": "340800"
                         },
                         {
-                            "divisionCode": "340722",
-                            "divisionLevel": "4",
-                            "pinyin": "zong yang xian",
-                            "divisionName": "枞阳县",
-                            "divisionTname": "樅陽縣",
-                            "divisionId": "340823",
-                            "divisionAbbName": "枞阳",
-                            "isdeleted": "true",
-                            "parentId": "340800"
-                        },
-                        {
                             "divisionCode": "340824",
                             "divisionLevel": "4",
-                            "pinyin": "qian shan xian",
-                            "divisionName": "潜山县",
-                            "divisionTname": "潛山縣",
+                            "pinyin": "qian shan shi",
+                            "divisionName": "潜山市",
+                            "divisionTname": "潛山市",
                             "divisionId": "340824",
                             "divisionAbbName": "潜山",
                             "isdeleted": "false",
@@ -14451,17 +13769,6 @@
                             "parentId": "341500"
                         },
                         {
-                            "divisionCode": "340422",
-                            "divisionLevel": "4",
-                            "pinyin": "shou xian",
-                            "divisionName": "寿县",
-                            "divisionTname": "壽縣",
-                            "divisionId": "341521",
-                            "divisionAbbName": "寿县",
-                            "isdeleted": "true",
-                            "parentId": "341500"
-                        },
-                        {
                             "divisionCode": "341522",
                             "divisionLevel": "4",
                             "pinyin": "huo qiu xian",
@@ -14912,7 +14219,7 @@
                             "parentId": "350100"
                         },
                         {
-                            "divisionCode": "350182",
+                            "divisionCode": "350112",
                             "divisionLevel": "4",
                             "pinyin": "zhang le qu",
                             "divisionName": "长乐区",
@@ -16043,39 +15350,6 @@
                             "parentId": "360100"
                         },
                         {
-                            "divisionCode": "360125",
-                            "divisionLevel": "4",
-                            "pinyin": "hong gu tan xin qu",
-                            "divisionName": "红谷滩新区",
-                            "divisionTname": "紅穀灘新區",
-                            "divisionId": "360125",
-                            "divisionAbbName": "红谷滩",
-                            "isdeleted": "true",
-                            "parentId": "360100"
-                        },
-                        {
-                            "divisionCode": "360126",
-                            "divisionLevel": "4",
-                            "pinyin": "jing ji ji shu kai fa qu",
-                            "divisionName": "经济技术开发区",
-                            "divisionTname": "經濟技術開發區",
-                            "divisionId": "360126",
-                            "divisionAbbName": "经济技术开发",
-                            "isdeleted": "true",
-                            "parentId": "360100"
-                        },
-                        {
-                            "divisionCode": "360127",
-                            "divisionLevel": "4",
-                            "pinyin": "chang bei qu",
-                            "divisionName": "昌北区",
-                            "divisionTname": "昌北區",
-                            "divisionId": "360127",
-                            "divisionAbbName": "昌北",
-                            "isdeleted": "true",
-                            "parentId": "360100"
-                        },
-                        {
                             "divisionCode": "360128",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -16269,7 +15543,7 @@
                             "parentId": "360400"
                         },
                         {
-                            "divisionCode": "360421",
+                            "divisionCode": "360404",
                             "divisionLevel": "4",
                             "pinyin": "chai sang qu",
                             "divisionName": "柴桑区",
@@ -16471,11 +15745,11 @@
                             "parentId": "360600"
                         },
                         {
-                            "divisionCode": "360622",
+                            "divisionCode": "360603",
                             "divisionLevel": "4",
-                            "pinyin": "yu jiang xian",
-                            "divisionName": "余江县",
-                            "divisionTname": "余江縣",
+                            "pinyin": "yu jiang qu",
+                            "divisionName": "余江区",
+                            "divisionTname": "余江區",
                             "divisionId": "360622",
                             "divisionAbbName": "余江",
                             "isdeleted": "false",
@@ -16690,17 +15964,6 @@
                             "divisionId": "360735",
                             "divisionAbbName": "石城",
                             "isdeleted": "false",
-                            "parentId": "360700"
-                        },
-                        {
-                            "divisionCode": "360751",
-                            "divisionLevel": "4",
-                            "pinyin": "huang jin qu",
-                            "divisionName": "黄金区",
-                            "divisionTname": "黃金區",
-                            "divisionId": "360751",
-                            "divisionAbbName": "黄金",
-                            "isdeleted": "true",
                             "parentId": "360700"
                         },
                         {
@@ -17209,11 +16472,11 @@
                         {
                             "divisionCode": "361121",
                             "divisionLevel": "4",
-                            "pinyin": "guang xin qu",
-                            "divisionName": "广信区",
-                            "divisionTname": "廣信區",
+                            "pinyin": "shang rao xian",
+                            "divisionName": "上饶县",
+                            "divisionTname": "上饒縣",
                             "divisionId": "361121",
-                            "divisionAbbName": "广信",
+                            "divisionAbbName": "上饶",
                             "isdeleted": "false",
                             "parentId": "361100"
                         },
@@ -17444,9 +16707,9 @@
                         {
                             "divisionCode": "370125",
                             "divisionLevel": "4",
-                            "pinyin": "ji yang xian",
-                            "divisionName": "济阳县",
-                            "divisionTname": "濟陽縣",
+                            "pinyin": "ji yang qu",
+                            "divisionName": "济阳区",
+                            "divisionTname": "濟陽區",
                             "divisionId": "370125",
                             "divisionAbbName": "济阳",
                             "isdeleted": "false",
@@ -17521,17 +16784,6 @@
                             "parentId": "370200"
                         },
                         {
-                            "divisionCode": "370205",
-                            "divisionLevel": "4",
-                            "pinyin": "si fang qu",
-                            "divisionName": "四方区",
-                            "divisionTname": "四方區",
-                            "divisionId": "370205",
-                            "divisionAbbName": "四方",
-                            "isdeleted": "true",
-                            "parentId": "370200"
-                        },
-                        {
                             "divisionCode": "370211",
                             "divisionLevel": "4",
                             "pinyin": "huang dao qu",
@@ -17576,17 +16828,6 @@
                             "parentId": "370200"
                         },
                         {
-                            "divisionCode": "370251",
-                            "divisionLevel": "4",
-                            "pinyin": "kai fa qu",
-                            "divisionName": "开发区",
-                            "divisionTname": "開發區",
-                            "divisionId": "370251",
-                            "divisionAbbName": "开发",
-                            "isdeleted": "true",
-                            "parentId": "370200"
-                        },
-                        {
                             "divisionCode": "370281",
                             "divisionLevel": "4",
                             "pinyin": "jiao zhou shi",
@@ -17598,7 +16839,7 @@
                             "parentId": "370200"
                         },
                         {
-                            "divisionCode": "370282",
+                            "divisionCode": "370215",
                             "divisionLevel": "4",
                             "pinyin": "ji mo qu",
                             "divisionName": "即墨区",
@@ -17617,17 +16858,6 @@
                             "divisionId": "370283",
                             "divisionAbbName": "平度",
                             "isdeleted": "false",
-                            "parentId": "370200"
-                        },
-                        {
-                            "divisionCode": "370284",
-                            "divisionLevel": "4",
-                            "pinyin": "jiao nan shi",
-                            "divisionName": "胶南市",
-                            "divisionTname": "膠南市",
-                            "divisionId": "370284",
-                            "divisionAbbName": "胶南",
-                            "isdeleted": "true",
                             "parentId": "370200"
                         },
                         {
@@ -17923,28 +17153,6 @@
                             "parentId": "370500"
                         },
                         {
-                            "divisionCode": "370589",
-                            "divisionLevel": "4",
-                            "pinyin": "xi cheng qu",
-                            "divisionName": "西城区",
-                            "divisionTname": "西城區",
-                            "divisionId": "370589",
-                            "divisionAbbName": "西城",
-                            "isdeleted": "true",
-                            "parentId": "370500"
-                        },
-                        {
-                            "divisionCode": "370590",
-                            "divisionLevel": "4",
-                            "pinyin": "dong cheng qu",
-                            "divisionName": "东城区",
-                            "divisionTname": "東城區",
-                            "divisionId": "370590",
-                            "divisionAbbName": "东城",
-                            "isdeleted": "true",
-                            "parentId": "370500"
-                        },
-                        {
                             "divisionCode": "370591",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -18191,17 +17399,6 @@
                             "parentId": "370700"
                         },
                         {
-                            "divisionCode": "370751",
-                            "divisionLevel": "4",
-                            "pinyin": "kai fa qu",
-                            "divisionName": "开发区",
-                            "divisionTname": "開發區",
-                            "divisionId": "370751",
-                            "divisionAbbName": "开发",
-                            "isdeleted": "true",
-                            "parentId": "370700"
-                        },
-                        {
                             "divisionCode": "370781",
                             "divisionLevel": "4",
                             "pinyin": "qing zhou shi",
@@ -18291,17 +17488,6 @@
                     "isdeleted": "false",
                     "parentId": "370000",
                     "children": [
-                        {
-                            "divisionCode": "370802",
-                            "divisionLevel": "4",
-                            "pinyin": "shi zhong qu",
-                            "divisionName": "市中区",
-                            "divisionTname": "市中區",
-                            "divisionId": "370802",
-                            "divisionAbbName": "市中",
-                            "isdeleted": "true",
-                            "parentId": "370800"
-                        },
                         {
                             "divisionCode": "370811",
                             "divisionLevel": "4",
@@ -18975,17 +18161,6 @@
                             "parentId": "371400"
                         },
                         {
-                            "divisionCode": "371451",
-                            "divisionLevel": "4",
-                            "pinyin": "kai fa qu",
-                            "divisionName": "开发区",
-                            "divisionTname": "開發區",
-                            "divisionId": "371451",
-                            "divisionAbbName": "开发",
-                            "isdeleted": "true",
-                            "parentId": "371400"
-                        },
-                        {
                             "divisionCode": "371481",
                             "divisionLevel": "4",
                             "pinyin": "le ling shi",
@@ -19513,28 +18688,6 @@
                             "parentId": "410100"
                         },
                         {
-                            "divisionCode": "410186",
-                            "divisionLevel": "4",
-                            "pinyin": "zheng dong xin qu",
-                            "divisionName": "郑东新区",
-                            "divisionTname": "鄭東新區",
-                            "divisionId": "410186",
-                            "divisionAbbName": "郑东",
-                            "isdeleted": "true",
-                            "parentId": "410100"
-                        },
-                        {
-                            "divisionCode": "410187",
-                            "divisionLevel": "4",
-                            "pinyin": "gao xin qu",
-                            "divisionName": "高新区",
-                            "divisionTname": "高新區",
-                            "divisionId": "410187",
-                            "divisionAbbName": "高新",
-                            "isdeleted": "true",
-                            "parentId": "410100"
-                        },
-                        {
                             "divisionCode": "410188",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -19600,17 +18753,6 @@
                             "divisionId": "410205",
                             "divisionAbbName": "禹王台",
                             "isdeleted": "false",
-                            "parentId": "410200"
-                        },
-                        {
-                            "divisionCode": "410211",
-                            "divisionLevel": "4",
-                            "pinyin": "jin ming qu",
-                            "divisionName": "金明区",
-                            "divisionTname": "金明區",
-                            "divisionId": "410211",
-                            "divisionAbbName": "金明",
-                            "isdeleted": "true",
                             "parentId": "410200"
                         },
                         {
@@ -19855,17 +18997,6 @@
                             "divisionId": "410381",
                             "divisionAbbName": "偃师",
                             "isdeleted": "false",
-                            "parentId": "410300"
-                        },
-                        {
-                            "divisionCode": "471004",
-                            "divisionLevel": "4",
-                            "pinyin": "gao xin qu",
-                            "divisionName": "高新区",
-                            "divisionTname": "高新區",
-                            "divisionId": "471004",
-                            "divisionAbbName": "高新",
-                            "isdeleted": "true",
                             "parentId": "410300"
                         },
                         {
@@ -21929,17 +21060,6 @@
                             "parentId": "420300"
                         },
                         {
-                            "divisionCode": "420382",
-                            "divisionLevel": "4",
-                            "pinyin": "cheng qu",
-                            "divisionName": "城区",
-                            "divisionTname": "城區",
-                            "divisionId": "420382",
-                            "divisionAbbName": "城区",
-                            "isdeleted": "true",
-                            "parentId": "420300"
-                        },
-                        {
                             "divisionCode": "420383",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -22071,28 +21191,6 @@
                             "divisionId": "420529",
                             "divisionAbbName": "五峰",
                             "isdeleted": "false",
-                            "parentId": "420500"
-                        },
-                        {
-                            "divisionCode": "420551",
-                            "divisionLevel": "4",
-                            "pinyin": "ge zhou ba qu",
-                            "divisionName": "葛洲坝区",
-                            "divisionTname": "葛洲壩區",
-                            "divisionId": "420551",
-                            "divisionAbbName": "葛洲坝",
-                            "isdeleted": "true",
-                            "parentId": "420500"
-                        },
-                        {
-                            "divisionCode": "420552",
-                            "divisionLevel": "4",
-                            "pinyin": "kai fa qu",
-                            "divisionName": "开发区",
-                            "divisionTname": "開發區",
-                            "divisionId": "420552",
-                            "divisionAbbName": "开发",
-                            "isdeleted": "true",
                             "parentId": "420500"
                         },
                         {
@@ -22355,11 +21453,11 @@
                             "parentId": "420800"
                         },
                         {
-                            "divisionCode": "420821",
+                            "divisionCode": "420882",
                             "divisionLevel": "4",
-                            "pinyin": "jing shan xian",
-                            "divisionName": "京山县",
-                            "divisionTname": "京山縣",
+                            "pinyin": "jing shan shi",
+                            "divisionName": "京山市",
+                            "divisionTname": "京山市",
                             "divisionId": "420821",
                             "divisionAbbName": "京山",
                             "isdeleted": "false",
@@ -22825,17 +21923,6 @@
                             "parentId": "421200"
                         },
                         {
-                            "divisionCode": "421282",
-                            "divisionLevel": "4",
-                            "pinyin": "wen quan cheng qu",
-                            "divisionName": "温泉城区",
-                            "divisionTname": "溫泉城區",
-                            "divisionId": "421282",
-                            "divisionAbbName": "温泉城",
-                            "isdeleted": "true",
-                            "parentId": "421200"
-                        },
-                        {
                             "divisionCode": "421283",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -23163,7 +22250,7 @@
                             "parentId": "430100"
                         },
                         {
-                            "divisionCode": "430124",
+                            "divisionCode": "430182",
                             "divisionLevel": "4",
                             "pinyin": "ning xiang shi",
                             "divisionName": "宁乡市",
@@ -24876,17 +23963,6 @@
                             "parentId": "440100"
                         },
                         {
-                            "divisionCode": "440116",
-                            "divisionLevel": "4",
-                            "pinyin": "luo gang qu",
-                            "divisionName": "萝岗区",
-                            "divisionTname": "蘿崗區",
-                            "divisionId": "440116",
-                            "divisionAbbName": "萝岗",
-                            "isdeleted": "true",
-                            "parentId": "440100"
-                        },
-                        {
                             "divisionCode": "440118",
                             "divisionLevel": "4",
                             "pinyin": "zeng cheng qu",
@@ -24906,17 +23982,6 @@
                             "divisionId": "440184",
                             "divisionAbbName": "从化",
                             "isdeleted": "false",
-                            "parentId": "440100"
-                        },
-                        {
-                            "divisionCode": "440188",
-                            "divisionLevel": "4",
-                            "pinyin": "dong shan qu",
-                            "divisionName": "东山区",
-                            "divisionTname": "東山區",
-                            "divisionId": "440188",
-                            "divisionAbbName": "东山",
-                            "isdeleted": "true",
                             "parentId": "440100"
                         },
                         {
@@ -25177,47 +24242,14 @@
                             "parentId": "440300"
                         },
                         {
-                            "divisionCode": "440320",
+                            "divisionCode": "440311",
                             "divisionLevel": "4",
-                            "pinyin": "guang ming xin qu",
-                            "divisionName": "光明新区",
-                            "divisionTname": "光明新區",
+                            "pinyin": "guang ming qu",
+                            "divisionName": "光明区",
+                            "divisionTname": "光明區",
                             "divisionId": "440320",
-                            "divisionAbbName": "光明新区",
-                            "isdeleted": "true",
-                            "parentId": "440300"
-                        },
-                        {
-                            "divisionCode": "440321",
-                            "divisionLevel": "4",
-                            "pinyin": "ping shan xin qu",
-                            "divisionName": "坪山新区",
-                            "divisionTname": "坪山新區",
-                            "divisionId": "440321",
-                            "divisionAbbName": "坪山新区",
-                            "isdeleted": "true",
-                            "parentId": "440300"
-                        },
-                        {
-                            "divisionCode": "440322",
-                            "divisionLevel": "4",
-                            "pinyin": "da peng xin qu",
-                            "divisionName": "大鹏新区",
-                            "divisionTname": "大鵬新區",
-                            "divisionId": "440322",
-                            "divisionAbbName": "大鹏新区",
-                            "isdeleted": "true",
-                            "parentId": "440300"
-                        },
-                        {
-                            "divisionCode": "440323",
-                            "divisionLevel": "4",
-                            "pinyin": "long hua xin qu",
-                            "divisionName": "龙华新区",
-                            "divisionTname": "龍華新區",
-                            "divisionId": "440323",
-                            "divisionAbbName": "龙华新区",
-                            "isdeleted": "true",
+                            "divisionAbbName": "光明",
+                            "isdeleted": "false",
                             "parentId": "440300"
                         }
                     ]
@@ -25264,28 +24296,6 @@
                             "divisionId": "440404",
                             "divisionAbbName": "金湾",
                             "isdeleted": "false",
-                            "parentId": "440400"
-                        },
-                        {
-                            "divisionCode": "440486",
-                            "divisionLevel": "4",
-                            "pinyin": "jin tang qu",
-                            "divisionName": "金唐区",
-                            "divisionTname": "金唐區",
-                            "divisionId": "440486",
-                            "divisionAbbName": "金唐",
-                            "isdeleted": "true",
-                            "parentId": "440400"
-                        },
-                        {
-                            "divisionCode": "440487",
-                            "divisionLevel": "4",
-                            "pinyin": "nan wan qu",
-                            "divisionName": "南湾区",
-                            "divisionTname": "南灣區",
-                            "divisionId": "440487",
-                            "divisionAbbName": "南湾",
-                            "isdeleted": "true",
                             "parentId": "440400"
                         },
                         {
@@ -25736,17 +24746,6 @@
                             "divisionId": "440903",
                             "divisionAbbName": "电白",
                             "isdeleted": "false",
-                            "parentId": "440900"
-                        },
-                        {
-                            "divisionCode": "440923",
-                            "divisionLevel": "4",
-                            "pinyin": "dian bai xian",
-                            "divisionName": "电白县",
-                            "divisionTname": "電白縣",
-                            "divisionId": "440923",
-                            "divisionAbbName": "电白",
-                            "isdeleted": "true",
                             "parentId": "440900"
                         },
                         {
@@ -27167,17 +26166,6 @@
                             "parentId": "445100"
                         },
                         {
-                            "divisionCode": "445185",
-                            "divisionLevel": "4",
-                            "pinyin": "feng xi qu",
-                            "divisionName": "枫溪区",
-                            "divisionTname": "楓溪區",
-                            "divisionId": "445185",
-                            "divisionAbbName": "枫溪",
-                            "isdeleted": "true",
-                            "parentId": "445100"
-                        },
-                        {
                             "divisionCode": "445186",
                             "divisionLevel": "4",
                             "pinyin": "qi ta qu",
@@ -27254,17 +26242,6 @@
                             "divisionId": "445281",
                             "divisionAbbName": "普宁",
                             "isdeleted": "false",
-                            "parentId": "445200"
-                        },
-                        {
-                            "divisionCode": "445284",
-                            "divisionLevel": "4",
-                            "pinyin": "dong shan qu",
-                            "divisionName": "东山区",
-                            "divisionTname": "東山區",
-                            "divisionId": "445284",
-                            "divisionAbbName": "东山",
-                            "isdeleted": "true",
                             "parentId": "445200"
                         },
                         {
@@ -27893,17 +26870,6 @@
                             "divisionId": "450403",
                             "divisionAbbName": "万秀",
                             "isdeleted": "false",
-                            "parentId": "450400"
-                        },
-                        {
-                            "divisionCode": "450404",
-                            "divisionLevel": "4",
-                            "pinyin": "die shan qu",
-                            "divisionName": "蝶山区",
-                            "divisionTname": "蝶山區",
-                            "divisionId": "450404",
-                            "divisionAbbName": "蝶山",
-                            "isdeleted": "true",
                             "parentId": "450400"
                         },
                         {
@@ -28556,17 +27522,6 @@
                             "divisionId": "451103",
                             "divisionAbbName": "平桂",
                             "isdeleted": "false",
-                            "parentId": "451100"
-                        },
-                        {
-                            "divisionCode": "451119",
-                            "divisionLevel": "4",
-                            "pinyin": "ping gui guan li qu",
-                            "divisionName": "平桂管理区",
-                            "divisionTname": "平桂管理區",
-                            "divisionId": "451119",
-                            "divisionAbbName": "平桂",
-                            "isdeleted": "true",
                             "parentId": "451100"
                         },
                         {
@@ -29310,39 +28265,6 @@
                     "divisionAbbName": "琼中",
                     "isdeleted": "false",
                     "parentId": "460000"
-                },
-                {
-                    "divisionCode": "469037",
-                    "divisionLevel": "4",
-                    "pinyin": "xi sha qun dao",
-                    "divisionName": "西沙群岛",
-                    "divisionTname": "西沙群島",
-                    "divisionId": "469037",
-                    "divisionAbbName": "西沙",
-                    "isdeleted": "true",
-                    "parentId": "460000"
-                },
-                {
-                    "divisionCode": "469038",
-                    "divisionLevel": "4",
-                    "pinyin": "nan sha qun dao",
-                    "divisionName": "南沙群岛",
-                    "divisionTname": "南沙群島",
-                    "divisionId": "469038",
-                    "divisionAbbName": "南沙",
-                    "isdeleted": "true",
-                    "parentId": "460000"
-                },
-                {
-                    "divisionCode": "469039",
-                    "divisionLevel": "4",
-                    "pinyin": "zhong sha qun dao de dao jiao ji qi hai yu",
-                    "divisionName": "中沙群岛的岛礁及其海域",
-                    "divisionTname": "中沙群島的島礁及其海域",
-                    "divisionId": "469039",
-                    "divisionAbbName": "中沙",
-                    "isdeleted": "true",
-                    "parentId": "460000"
                 }
             ]
         },
@@ -29465,28 +28387,6 @@
                             "divisionId": "500109",
                             "divisionAbbName": "北碚",
                             "isdeleted": "false",
-                            "parentId": "500100"
-                        },
-                        {
-                            "divisionCode": "500110",
-                            "divisionLevel": "4",
-                            "pinyin": "wan sheng qu",
-                            "divisionName": "万盛区",
-                            "divisionTname": "萬盛區",
-                            "divisionId": "500110",
-                            "divisionAbbName": "万盛",
-                            "isdeleted": "true",
-                            "parentId": "500100"
-                        },
-                        {
-                            "divisionCode": "500111",
-                            "divisionLevel": "4",
-                            "pinyin": "shuang qiao qu",
-                            "divisionName": "双桥区",
-                            "divisionTname": "雙橋區",
-                            "divisionId": "500111",
-                            "divisionAbbName": "双桥",
-                            "isdeleted": "true",
                             "parentId": "500100"
                         },
                         {
@@ -30382,7 +29282,7 @@
                             "parentId": "510600"
                         },
                         {
-                            "divisionCode": "510626",
+                            "divisionCode": "510604",
                             "divisionLevel": "4",
                             "pinyin": "luo jiang qu",
                             "divisionName": "罗江区",
@@ -30535,17 +29435,6 @@
                             "divisionId": "510727",
                             "divisionAbbName": "平武",
                             "isdeleted": "false",
-                            "parentId": "510700"
-                        },
-                        {
-                            "divisionCode": "510751",
-                            "divisionLevel": "4",
-                            "pinyin": "gao xin qu",
-                            "divisionName": "高新区",
-                            "divisionTname": "高新區",
-                            "divisionId": "510751",
-                            "divisionAbbName": "高新",
-                            "isdeleted": "true",
                             "parentId": "510700"
                         },
                         {
@@ -31214,11 +30103,11 @@
                         {
                             "divisionCode": "511521",
                             "divisionLevel": "4",
-                            "pinyin": "yi bin xian",
-                            "divisionName": "宜宾县",
-                            "divisionTname": "宜賓縣",
+                            "pinyin": "xu zhou qu",
+                            "divisionName": "叙州区",
+                            "divisionTname": "敘州區",
                             "divisionId": "511521",
-                            "divisionAbbName": "宜宾",
+                            "divisionAbbName": "叙州",
                             "isdeleted": "false",
                             "parentId": "511500"
                         },
@@ -31398,17 +30287,6 @@
                             "divisionId": "511681",
                             "divisionAbbName": "华蓥",
                             "isdeleted": "false",
-                            "parentId": "511600"
-                        },
-                        {
-                            "divisionCode": "511682",
-                            "divisionLevel": "4",
-                            "pinyin": "shi xia qu",
-                            "divisionName": "市辖区",
-                            "divisionTname": "市轄區",
-                            "divisionId": "511682",
-                            "divisionAbbName": "市辖",
-                            "isdeleted": "true",
                             "parentId": "511600"
                         },
                         {
@@ -32450,17 +31328,6 @@
                             "divisionId": "520113",
                             "divisionAbbName": "白云",
                             "isdeleted": "false",
-                            "parentId": "520100"
-                        },
-                        {
-                            "divisionCode": "520114",
-                            "divisionLevel": "4",
-                            "pinyin": "xiao he qu",
-                            "divisionName": "小河区",
-                            "divisionTname": "小河區",
-                            "divisionId": "520114",
-                            "divisionAbbName": "小河",
-                            "isdeleted": "true",
                             "parentId": "520100"
                         },
                         {
@@ -33795,11 +32662,11 @@
                             "parentId": "530300"
                         },
                         {
-                            "divisionCode": "530321",
+                            "divisionCode": "530304",
                             "divisionLevel": "4",
-                            "pinyin": "ma long xian",
-                            "divisionName": "马龙县",
-                            "divisionTname": "馬龍縣",
+                            "pinyin": "ma long qu",
+                            "divisionName": "马龙区",
+                            "divisionTname": "馬龍區",
                             "divisionId": "530321",
                             "divisionAbbName": "马龙",
                             "isdeleted": "false",
@@ -35488,11 +34355,11 @@
                             "parentId": "540100"
                         },
                         {
-                            "divisionCode": "540126",
+                            "divisionCode": "540104",
                             "divisionLevel": "4",
-                            "pinyin": "da zi xian",
-                            "divisionName": "达孜县",
-                            "divisionTname": "達孜縣",
+                            "pinyin": "da zi qu",
+                            "divisionName": "达孜区",
+                            "divisionTname": "達孜區",
                             "divisionId": "540126",
                             "divisionAbbName": "达孜",
                             "isdeleted": "false",
@@ -36046,7 +34913,7 @@
                     ]
                 },
                 {
-                    "divisionCode": "542400",
+                    "divisionCode": "540600",
                     "divisionLevel": "3",
                     "pinyin": "na qu shi",
                     "divisionName": "那曲市",
@@ -36057,7 +34924,7 @@
                     "parentId": "540000",
                     "children": [
                         {
-                            "divisionCode": "542421",
+                            "divisionCode": "540602",
                             "divisionLevel": "4",
                             "pinyin": "se ni qu",
                             "divisionName": "色尼区",
@@ -36068,7 +34935,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542422",
+                            "divisionCode": "540621",
                             "divisionLevel": "4",
                             "pinyin": "jia li xian",
                             "divisionName": "嘉黎县",
@@ -36079,7 +34946,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542423",
+                            "divisionCode": "540622",
                             "divisionLevel": "4",
                             "pinyin": "bi ru xian",
                             "divisionName": "比如县",
@@ -36090,7 +34957,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542424",
+                            "divisionCode": "540623",
                             "divisionLevel": "4",
                             "pinyin": "nie rong xian",
                             "divisionName": "聂荣县",
@@ -36101,7 +34968,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542425",
+                            "divisionCode": "540624",
                             "divisionLevel": "4",
                             "pinyin": "an duo xian",
                             "divisionName": "安多县",
@@ -36112,7 +34979,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542426",
+                            "divisionCode": "540625",
                             "divisionLevel": "4",
                             "pinyin": "shen zha xian",
                             "divisionName": "申扎县",
@@ -36123,7 +34990,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542427",
+                            "divisionCode": "540626",
                             "divisionLevel": "4",
                             "pinyin": "suo xian",
                             "divisionName": "索县",
@@ -36134,7 +35001,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542428",
+                            "divisionCode": "540627",
                             "divisionLevel": "4",
                             "pinyin": "ban ge xian",
                             "divisionName": "班戈县",
@@ -36145,7 +35012,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542429",
+                            "divisionCode": "540628",
                             "divisionLevel": "4",
                             "pinyin": "ba qing xian",
                             "divisionName": "巴青县",
@@ -36156,7 +35023,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542430",
+                            "divisionCode": "540629",
                             "divisionLevel": "4",
                             "pinyin": "ni ma xian",
                             "divisionName": "尼玛县",
@@ -36178,7 +35045,7 @@
                             "parentId": "542400"
                         },
                         {
-                            "divisionCode": "542431",
+                            "divisionCode": "540630",
                             "divisionLevel": "4",
                             "pinyin": "shuang hu xian",
                             "divisionName": "双湖县",
@@ -36896,13 +35763,13 @@
                             "parentId": "610400"
                         },
                         {
-                            "divisionCode": "610427",
+                            "divisionCode": "610482",
                             "divisionLevel": "4",
-                            "pinyin": "bin xian",
-                            "divisionName": "彬县",
-                            "divisionTname": "彬縣",
+                            "pinyin": "bin zhou shi",
+                            "divisionName": "彬州市",
+                            "divisionTname": "彬州市",
                             "divisionId": "610427",
-                            "divisionAbbName": "彬县",
+                            "divisionAbbName": "彬州",
                             "isdeleted": "false",
                             "parentId": "610400"
                         },
@@ -37309,7 +36176,7 @@
                             "parentId": "610700"
                         },
                         {
-                            "divisionCode": "610721",
+                            "divisionCode": "610703",
                             "divisionLevel": "4",
                             "pinyin": "nan zheng qu",
                             "divisionName": "南郑区",
@@ -39805,6 +38672,17 @@
                             "parentId": "632800"
                         },
                         {
+                            "divisionCode": "632803",
+                            "divisionLevel": "4",
+                            "pinyin": "mang ya shi",
+                            "divisionName": "茫崖市",
+                            "divisionTname": "茫崖市",
+                            "divisionId": "632803",
+                            "divisionAbbName": "茫崖",
+                            "isdeleted": "false",
+                            "parentId": "632800"
+                        },
+                        {
                             "divisionCode": "632821",
                             "divisionLevel": "4",
                             "pinyin": "wu lan xian",
@@ -40327,17 +39205,6 @@
                             "parentId": "650100"
                         },
                         {
-                            "divisionCode": "650108",
-                            "divisionLevel": "4",
-                            "pinyin": "dong shan qu",
-                            "divisionName": "东山区",
-                            "divisionTname": "東山區",
-                            "divisionId": "650108",
-                            "divisionAbbName": "东山",
-                            "isdeleted": "true",
-                            "parentId": "650100"
-                        },
-                        {
                             "divisionCode": "650109",
                             "divisionLevel": "4",
                             "pinyin": "mi dong qu",
@@ -40585,17 +39452,6 @@
                             "divisionId": "652302",
                             "divisionAbbName": "阜康",
                             "isdeleted": "false",
-                            "parentId": "652300"
-                        },
-                        {
-                            "divisionCode": "652303",
-                            "divisionLevel": "4",
-                            "pinyin": "mi quan shi",
-                            "divisionName": "米泉市",
-                            "divisionTname": "米泉市",
-                            "divisionId": "652303",
-                            "divisionAbbName": "米泉",
-                            "isdeleted": "true",
                             "parentId": "652300"
                         },
                         {
@@ -41675,17 +40531,6 @@
                     "parentId": "650000",
                     "children": [
                         {
-                            "divisionCode": "659007",
-                            "divisionLevel": "4",
-                            "pinyin": "shuang he shi",
-                            "divisionName": "双河市",
-                            "divisionTname": "雙河市",
-                            "divisionId": "659007",
-                            "divisionAbbName": "双河",
-                            "isdeleted": "false",
-                            "parentId": "659000"
-                        },
-                        {
                             "divisionCode": "659008",
                             "divisionLevel": "4",
                             "pinyin": "ke ke da la shi",
@@ -41761,6 +40606,17 @@
                     "divisionTname": "鐵門關市",
                     "divisionId": "659006",
                     "divisionAbbName": "铁门关",
+                    "isdeleted": "false",
+                    "parentId": "650000"
+                },
+                {
+                    "divisionCode": "659007",
+                    "divisionLevel": "4",
+                    "pinyin": "shuang he shi",
+                    "divisionName": "双河市",
+                    "divisionTname": "雙河市",
+                    "divisionId": "659007",
+                    "divisionAbbName": "双河",
                     "isdeleted": "false",
                     "parentId": "650000"
                 },
@@ -41978,17 +40834,6 @@
                             "parentId": "710200"
                         },
                         {
-                            "divisionCode": "710203",
-                            "divisionLevel": "4",
-                            "pinyin": "qin ya qu",
-                            "divisionName": "芩雅区",
-                            "divisionTname": "芩雅區",
-                            "divisionId": "710203",
-                            "divisionAbbName": "芩雅",
-                            "isdeleted": "false",
-                            "parentId": "710200"
-                        },
-                        {
                             "divisionCode": "710204",
                             "divisionLevel": "4",
                             "pinyin": "yan cheng qu",
@@ -42051,17 +40896,6 @@
                             "divisionTname": "左營區",
                             "divisionId": "710209",
                             "divisionAbbName": "左营",
-                            "isdeleted": "false",
-                            "parentId": "710200"
-                        },
-                        {
-                            "divisionCode": "710210",
-                            "divisionLevel": "4",
-                            "pinyin": "nan zi qu",
-                            "divisionName": "楠梓区",
-                            "divisionTname": "楠梓區",
-                            "divisionId": "710210",
-                            "divisionAbbName": "楠梓",
                             "isdeleted": "false",
                             "parentId": "710200"
                         },
@@ -42370,17 +41204,6 @@
                             "divisionTname": "那瑪夏區",
                             "divisionId": "710266",
                             "divisionAbbName": "那玛夏",
-                            "isdeleted": "false",
-                            "parentId": "710200"
-                        },
-                        {
-                            "divisionCode": "710267",
-                            "divisionLevel": "4",
-                            "pinyin": "mao lin qu",
-                            "divisionName": "茂林区",
-                            "divisionTname": "茂林區",
-                            "divisionId": "710267",
-                            "divisionAbbName": "茂林",
                             "isdeleted": "false",
                             "parentId": "710200"
                         },
@@ -43236,17 +42059,6 @@
                             "divisionAbbName": "烈屿",
                             "isdeleted": "false",
                             "parentId": "710500"
-                        },
-                        {
-                            "divisionCode": "710512",
-                            "divisionLevel": "4",
-                            "pinyin": "wu qiu xiang",
-                            "divisionName": "乌坵乡",
-                            "divisionTname": "烏坵鄉",
-                            "divisionId": "710512",
-                            "divisionAbbName": "乌坵",
-                            "isdeleted": "false",
-                            "parentId": "710500"
                         }
                     ]
                 },
@@ -44084,17 +42896,6 @@
                             "divisionAbbName": "南澳",
                             "isdeleted": "false",
                             "parentId": "711200"
-                        },
-                        {
-                            "divisionCode": "711226",
-                            "divisionLevel": "4",
-                            "pinyin": "diao yu tai",
-                            "divisionName": "钓鱼台",
-                            "divisionTname": "釣魚臺",
-                            "divisionId": "711226",
-                            "divisionAbbName": "钓鱼",
-                            "isdeleted": "false",
-                            "parentId": "711200"
                         }
                     ]
                 },
@@ -44257,9 +43058,9 @@
                 {
                     "divisionCode": "711400",
                     "divisionLevel": "3",
-                    "pinyin": "tao yuan xian",
-                    "divisionName": "桃园县",
-                    "divisionTname": "桃園縣",
+                    "pinyin": "tao yuan shi",
+                    "divisionName": "桃园市",
+                    "divisionTname": "桃園市",
                     "divisionId": "711400",
                     "divisionAbbName": "桃园",
                     "isdeleted": "false",
@@ -44268,9 +43069,9 @@
                         {
                             "divisionCode": "711414",
                             "divisionLevel": "4",
-                            "pinyin": "zhong li shi",
-                            "divisionName": "中坜市",
-                            "divisionTname": "中壢市",
+                            "pinyin": "zhong li qu",
+                            "divisionName": "中坜区",
+                            "divisionTname": "中壢區",
                             "divisionId": "711414",
                             "divisionAbbName": "中坜",
                             "isdeleted": "false",
@@ -44279,9 +43080,9 @@
                         {
                             "divisionCode": "711415",
                             "divisionLevel": "4",
-                            "pinyin": "ping zhen shi",
-                            "divisionName": "平镇市",
-                            "divisionTname": "平鎮市",
+                            "pinyin": "ping zhen qu",
+                            "divisionName": "平镇区",
+                            "divisionTname": "平鎮區",
                             "divisionId": "711415",
                             "divisionAbbName": "平镇",
                             "isdeleted": "false",
@@ -44290,9 +43091,9 @@
                         {
                             "divisionCode": "711416",
                             "divisionLevel": "4",
-                            "pinyin": "long tan xiang",
-                            "divisionName": "龙潭乡",
-                            "divisionTname": "龍潭鄉",
+                            "pinyin": "long tan qu",
+                            "divisionName": "龙潭区",
+                            "divisionTname": "龍潭區",
                             "divisionId": "711416",
                             "divisionAbbName": "龙潭",
                             "isdeleted": "false",
@@ -44301,9 +43102,9 @@
                         {
                             "divisionCode": "711417",
                             "divisionLevel": "4",
-                            "pinyin": "yang mei shi",
-                            "divisionName": "杨梅市",
-                            "divisionTname": "楊梅市",
+                            "pinyin": "yang mei qu",
+                            "divisionName": "杨梅区",
+                            "divisionTname": "楊梅區",
                             "divisionId": "711417",
                             "divisionAbbName": "杨梅",
                             "isdeleted": "false",
@@ -44312,9 +43113,9 @@
                         {
                             "divisionCode": "711418",
                             "divisionLevel": "4",
-                            "pinyin": "xin wu xiang",
-                            "divisionName": "新屋乡",
-                            "divisionTname": "新屋鄉",
+                            "pinyin": "xin wu qu",
+                            "divisionName": "新屋区",
+                            "divisionTname": "新屋區",
                             "divisionId": "711418",
                             "divisionAbbName": "新屋",
                             "isdeleted": "false",
@@ -44323,9 +43124,9 @@
                         {
                             "divisionCode": "711419",
                             "divisionLevel": "4",
-                            "pinyin": "guan yin xiang",
-                            "divisionName": "观音乡",
-                            "divisionTname": "觀音鄉",
+                            "pinyin": "guan yin qu",
+                            "divisionName": "观音区",
+                            "divisionTname": "觀音區",
                             "divisionId": "711419",
                             "divisionAbbName": "观音",
                             "isdeleted": "false",
@@ -44334,9 +43135,9 @@
                         {
                             "divisionCode": "711420",
                             "divisionLevel": "4",
-                            "pinyin": "tao yuan shi",
-                            "divisionName": "桃园市",
-                            "divisionTname": "桃園市",
+                            "pinyin": "tao yuan qu",
+                            "divisionName": "桃园区",
+                            "divisionTname": "桃園區",
                             "divisionId": "711420",
                             "divisionAbbName": "桃园",
                             "isdeleted": "false",
@@ -44345,9 +43146,9 @@
                         {
                             "divisionCode": "711421",
                             "divisionLevel": "4",
-                            "pinyin": "gui shan xiang",
-                            "divisionName": "龟山乡",
-                            "divisionTname": "龜山鄉",
+                            "pinyin": "gui shan qu",
+                            "divisionName": "龟山区",
+                            "divisionTname": "龜山區",
                             "divisionId": "711421",
                             "divisionAbbName": "龟山",
                             "isdeleted": "false",
@@ -44356,9 +43157,9 @@
                         {
                             "divisionCode": "711422",
                             "divisionLevel": "4",
-                            "pinyin": "ba de shi",
-                            "divisionName": "八德市",
-                            "divisionTname": "八德市",
+                            "pinyin": "ba de qu",
+                            "divisionName": "八德区",
+                            "divisionTname": "八德區",
                             "divisionId": "711422",
                             "divisionAbbName": "八德",
                             "isdeleted": "false",
@@ -44367,9 +43168,9 @@
                         {
                             "divisionCode": "711423",
                             "divisionLevel": "4",
-                            "pinyin": "da xi zhen",
-                            "divisionName": "大溪镇",
-                            "divisionTname": "大溪鎮",
+                            "pinyin": "da xi qu",
+                            "divisionName": "大溪区",
+                            "divisionTname": "大溪區",
                             "divisionId": "711423",
                             "divisionAbbName": "大溪",
                             "isdeleted": "false",
@@ -44378,9 +43179,9 @@
                         {
                             "divisionCode": "711424",
                             "divisionLevel": "4",
-                            "pinyin": "fu xing xiang",
-                            "divisionName": "复兴乡",
-                            "divisionTname": "複興鄉",
+                            "pinyin": "fu xing qu",
+                            "divisionName": "复兴区",
+                            "divisionTname": "複興區",
                             "divisionId": "711424",
                             "divisionAbbName": "复兴",
                             "isdeleted": "false",
@@ -44389,9 +43190,9 @@
                         {
                             "divisionCode": "711425",
                             "divisionLevel": "4",
-                            "pinyin": "da yuan xiang",
-                            "divisionName": "大园乡",
-                            "divisionTname": "大園鄉",
+                            "pinyin": "da yuan qu",
+                            "divisionName": "大园区",
+                            "divisionTname": "大園區",
                             "divisionId": "711425",
                             "divisionAbbName": "大园",
                             "isdeleted": "false",
@@ -44400,9 +43201,9 @@
                         {
                             "divisionCode": "711426",
                             "divisionLevel": "4",
-                            "pinyin": "lu zhu xiang",
-                            "divisionName": "芦竹乡",
-                            "divisionTname": "蘆竹鄉",
+                            "pinyin": "lu zhu qu",
+                            "divisionName": "芦竹区",
+                            "divisionTname": "蘆竹區",
                             "divisionId": "711426",
                             "divisionAbbName": "芦竹",
                             "isdeleted": "false",
@@ -44961,17 +43762,6 @@
                             "divisionTname": "竹崎鄉",
                             "divisionId": "711921",
                             "divisionAbbName": "竹崎",
-                            "isdeleted": "false",
-                            "parentId": "711900"
-                        },
-                        {
-                            "divisionCode": "711922",
-                            "divisionLevel": "4",
-                            "pinyin": "a li shan xiang",
-                            "divisionName": "阿里山乡",
-                            "divisionTname": "阿裏山鄉",
-                            "divisionId": "711922",
-                            "divisionAbbName": "阿里山",
                             "isdeleted": "false",
                             "parentId": "711900"
                         },
@@ -45963,17 +44753,6 @@
                             "parentId": "712600"
                         },
                         {
-                            "divisionCode": "712617",
-                            "divisionLevel": "4",
-                            "pinyin": "tai lu ge",
-                            "divisionName": "太鲁阁",
-                            "divisionTname": "太魯閣",
-                            "divisionId": "712617",
-                            "divisionAbbName": "太鲁",
-                            "isdeleted": "false",
-                            "parentId": "712600"
-                        },
-                        {
                             "divisionCode": "712618",
                             "divisionLevel": "4",
                             "pinyin": "xiu lin xiang",
@@ -46504,7 +45283,64 @@
                     "divisionId": "820100",
                     "divisionAbbName": "澳门半岛",
                     "isdeleted": "false",
-                    "parentId": "820000"
+                    "parentId": "820000",
+                    "children": [
+                        {
+                            "divisionCode": "820001",
+                            "divisionLevel": "4",
+                            "pinyin": "hua di ma tang qu",
+                            "divisionName": "花地玛堂区",
+                            "divisionTname": "花地瑪堂區",
+                            "divisionId": "820001",
+                            "divisionAbbName": "花地玛",
+                            "isdeleted": "false",
+                            "parentId": "820100"
+                        },
+                        {
+                            "divisionCode": "820002",
+                            "divisionLevel": "4",
+                            "pinyin": "hua wang tang qu",
+                            "divisionName": "花王堂区",
+                            "divisionTname": "花王堂區",
+                            "divisionId": "820002",
+                            "divisionAbbName": "花王",
+                            "isdeleted": "false",
+                            "parentId": "820100"
+                        },
+                        {
+                            "divisionCode": "820003",
+                            "divisionLevel": "4",
+                            "pinyin": "wang de tang qu",
+                            "divisionName": "望德堂区",
+                            "divisionTname": "望德堂區",
+                            "divisionId": "820003",
+                            "divisionAbbName": "望德",
+                            "isdeleted": "false",
+                            "parentId": "820100"
+                        },
+                        {
+                            "divisionCode": "820004",
+                            "divisionLevel": "4",
+                            "pinyin": "da tang qu",
+                            "divisionName": "大堂区",
+                            "divisionTname": "大堂區",
+                            "divisionId": "820004",
+                            "divisionAbbName": "大堂区",
+                            "isdeleted": "false",
+                            "parentId": "820100"
+                        },
+                        {
+                            "divisionCode": "820005",
+                            "divisionLevel": "4",
+                            "pinyin": "feng shun tang qu",
+                            "divisionName": "风顺堂区",
+                            "divisionTname": "風順堂區",
+                            "divisionId": "820005",
+                            "divisionAbbName": "风顺",
+                            "isdeleted": "false",
+                            "parentId": "820100"
+                        }
+                    ]
                 },
                 {
                     "divisionCode": "820200",
@@ -46515,7 +45351,42 @@
                     "divisionId": "820200",
                     "divisionAbbName": "离岛",
                     "isdeleted": "false",
-                    "parentId": "820000"
+                    "parentId": "820000",
+                    "children": [
+                        {
+                            "divisionCode": "820006",
+                            "divisionLevel": "4",
+                            "pinyin": "jia mu tang qu",
+                            "divisionName": "嘉模堂区",
+                            "divisionTname": "嘉模堂區",
+                            "divisionId": "820006",
+                            "divisionAbbName": "嘉模",
+                            "isdeleted": "false",
+                            "parentId": "820200"
+                        },
+                        {
+                            "divisionCode": "820007",
+                            "divisionLevel": "4",
+                            "pinyin": "lu dang tian hai qu",
+                            "divisionName": "路氹填海区",
+                            "divisionTname": "路氹填海區",
+                            "divisionId": "820007",
+                            "divisionAbbName": "路氹",
+                            "isdeleted": "false",
+                            "parentId": "820200"
+                        },
+                        {
+                            "divisionCode": "820008",
+                            "divisionLevel": "4",
+                            "pinyin": "sheng fang ji ge tang qu",
+                            "divisionName": "圣方济各堂区",
+                            "divisionTname": "聖方濟各堂區",
+                            "divisionId": "820008",
+                            "divisionAbbName": "圣方济各",
+                            "isdeleted": "false",
+                            "parentId": "820200"
+                        }
+                    ]
                 }
             ]
         },
