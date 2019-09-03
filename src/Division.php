@@ -81,7 +81,7 @@ class Division
         $list = [];
 
         foreach ($data['divisionsList'] as $item) {
-            $division = new self($item['divisionCode'], $this->client);
+            $division = new self($item['divisionId'], $this->client);
             $division->data = $item;
 
             $list[] = $division;
