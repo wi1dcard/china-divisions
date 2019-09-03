@@ -6,10 +6,10 @@ use ChinaDivisions\Exceptions\ResponseException;
 use GuzzleHttp\Client as HttpClient;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Exception\BadResponseException;
+use function GuzzleHttp\Psr7\build_query;
 use GuzzleHttp\Psr7\Request;
 use Psr\Http\Message\RequestInterface;
 use Spatie\ArrayToXml\ArrayToXml;
-use function GuzzleHttp\Psr7\build_query;
 
 class Client
 {
