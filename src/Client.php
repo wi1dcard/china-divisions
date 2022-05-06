@@ -6,7 +6,6 @@ use ChinaDivisions\Exceptions\ResponseException;
 use GuzzleHttp\Client as HttpClient;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Exception\BadResponseException;
-use function GuzzleHttp\Psr7\build_query;
 use GuzzleHttp\Psr7\Request;
 use Psr\Http\Message\RequestInterface;
 use Spatie\ArrayToXml\ArrayToXml;
@@ -53,7 +52,7 @@ class Client
 
         $dataDigest = $this->signer->make($logisticsInterface, $salt);
 
-        $body = build_query([
+        $body = http_build_query([
             'msg_type'             => $msgType,
             'logistic_provider_id' => $logisticProviderId,
             'logistics_interface'  => $logisticsInterface,
