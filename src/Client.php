@@ -53,7 +53,7 @@ class Client
 
         $dataDigest = $this->signer->make($logisticsInterface, $salt);
 
-        $body = build_query([
+        $body = http_build_query([
             'msg_type'             => $msgType,
             'logistic_provider_id' => $logisticProviderId,
             'logistics_interface'  => $logisticsInterface,

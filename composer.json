@@ -1,10 +1,10 @@
 {
-    "name": "wi1dcard/china-divisions",
+    "name": "node/china-divisions",
     "description": "中国行政区划地址库 SDK + 爬虫 + 数据。",
     "type": "library",
     "require": {
         "php": "^7.1|^8.0",
-        "guzzlehttp/guzzle": "^6.0",
+        "guzzlehttp/guzzle": "^7.0",
         "spatie/array-to-xml": "^2.7"
     },
     "license": "MIT",
@@ -21,5 +21,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
-    }
+    },
+    "bin": [
+        "scripts/crawler.php"
+    ]
 }

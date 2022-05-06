@@ -5,10 +5,16 @@ use ChinaDivisions\Division;
 use GuzzleHttp\Exception\BadResponseException;
 use ChinaDivisions\Exceptions\ResponseException;
 
-require __DIR__ . '/../vendor/autoload.php';
+if ($GLOBALS['_composer_autoload_path']){
+    require $GLOBALS['_composer_autoload_path'];
+}else {
+    require __DIR__ . '/../vendor/autoload.php';
+}
 
 define('MAX_LEVEL', getenv('MAX_LEVEL') ?: 4); // 1.国家 -> 2.省 -> 3.市 -> 4.区县 -> 5.街道乡镇
 define('CHILDREN_KEY', getenv('CHILDREN_KEY') ?: 'children'); // 子节点键名
+define('OUTPUT_DIR', getenv('OUTPUT_DIR') ?: __DIR__.'/output');
+
 const DIVISION_FILTER = 'division_filter';
 
 function division_filter(array $data): ?array
@@ -69,6 +75,6 @@ try {
 }
 
 file_put_contents(
-    sprintf('%s/output/level%s.json', __DIR__, MAX_LEVEL),
+    sprintf('%s/level%s.json', OUTPUT_DIR, MAX_LEVEL),
     json_encode($collection, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT)
 );
