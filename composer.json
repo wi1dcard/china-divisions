@@ -1,5 +1,5 @@
 {
-    "name": "node/china-divisions",
+    "name": "wi1dcard/china-divisions",
     "description": "中国行政区划地址库 SDK + 爬虫 + 数据。",
     "type": "library",
     "require": {
